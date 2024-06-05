@@ -1,0 +1,30 @@
+body{
+    font-family: fantasy;
+    margin: 0;
+    padding: 0;
+    background-color: #c362f0;
+}
+header {
+    background-color: #590b5e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    letter-spacing: 10px;
+    font-size: 40px;
+    font-family:fantasy;
+}
+p{
+    font-size: 40px;
+    margin-top: 100px;
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+footer {
+    background-color: #590b5e;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
